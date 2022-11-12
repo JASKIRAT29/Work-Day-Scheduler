@@ -10,6 +10,6 @@ A simple calendar application that allows the user to save events for each hour 
 
 Third Party Assets:
 
-Momement.js
-Font Awesome
-Bootstrap
+.Momement.js
+.Font Awesome
+.Bootstrap
